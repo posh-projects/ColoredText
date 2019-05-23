@@ -14,7 +14,7 @@ PS> Install-Module ColoredText
 
 Projects using `ColoredText`:
 - [Logger](https://github.com/n8tb1t/Logger).
-- [Logger](https://github.com/n8tb1t/Tree).
+- [Tree](https://github.com/n8tb1t/Tree).
 - [Parser](https://github.com/n8tb1t/Parser).
 - [Debug](https://github.com/n8tb1t/Debug).
 
