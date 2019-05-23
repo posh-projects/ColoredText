@@ -1,0 +1,29 @@
+Enum PublicMethods
+{
+    print
+    on
+    cr
+    reset
+    lpad
+    rpad
+    nopad
+    black
+    blue
+    cyan
+    gray
+    green
+    magenta
+    red
+    white
+    yellow
+    darkblue
+    darkcyan
+    darkgray
+    darkgreen
+    darkmagenta
+    darkred
+    darkyellow
+    next
+    persist
+    rainbow
+}
